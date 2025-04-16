@@ -4,6 +4,13 @@ This project implements a Neural Network for digit classification using the MNIS
  - Project Overview
 This is a simple, yet powerful 2-layer Neural Network built from the ground up using basic linear algebra and backpropagation. The model achieves an accuracy of around 85% on the MNIST dataset, which can be further improved with hyperparameter tuning and more advanced techniques.
 
+ - Tech Stack used
+- Python 
+- Numpy
+- Matplotlib
+- Jupyter Notebook
+- MNIST Dataset
+  
  - Model Architecture
 Input Layer: 784 neurons (representing 28x28 pixels of the image)
 
@@ -18,8 +25,6 @@ Softmax for output layer
 
  - How It Works
 Forward Propagation: Data passes through the network, layer by layer, and activations are calculated.
-
-Loss Function: Cross-entropy loss is used to evaluate the accuracy of the predictions.
 
 Backpropagation: Gradients of the loss function are calculated to update the model’s parameters using the gradient descent algorithm.
 
