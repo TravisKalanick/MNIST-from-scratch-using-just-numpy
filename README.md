@@ -51,6 +51,14 @@ Option 1: Run on Kaggle
 Go to the Kaggle Notebook and open the notebook.
 
 Run all cells in order to see the model's training process and predictions.
+
+Clone this repository:
+git clone https://github.com/your-username/Building-a-NN-on-MNIST-Dataset-Using-NumPy.git
+cd Building-a-NN-on-MNIST-Dataset-Using-NumPy
+
+Launch Jupyter Notebook:
+jupyter notebook
+
  - Author
 Name: Sam
 GitHub: https://github.com/TravisKalanick
